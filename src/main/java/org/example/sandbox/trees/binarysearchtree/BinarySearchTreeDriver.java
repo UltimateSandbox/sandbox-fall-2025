@@ -1,7 +1,5 @@
 package org.example.sandbox.trees.binarysearchtree;
 
-
-
 import org.example.sandbox.trees.Tree;
 
 import java.util.Iterator;
